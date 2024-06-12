@@ -7,15 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		521073262B9A4C82006F499A /* Calculater.swift in Sources */ = {isa = PBXBuildFile; fileRef = 521073252B9A4C82006F499A /* Calculater.swift */; };
 		521623652B7E629B0049F737 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 521623642B7E629B0049F737 /* AppDelegate.swift */; };
 		521623672B7E629B0049F737 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 521623662B7E629B0049F737 /* SceneDelegate.swift */; };
 		521623692B7E629B0049F737 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 521623682B7E629B0049F737 /* ViewController.swift */; };
 		5216236C2B7E629B0049F737 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5216236A2B7E629B0049F737 /* Main.storyboard */; };
 		5216236E2B7E629C0049F737 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5216236D2B7E629C0049F737 /* Assets.xcassets */; };
 		521623712B7E629C0049F737 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5216236F2B7E629C0049F737 /* LaunchScreen.storyboard */; };
+		5232768D2B991ECA0045C4D7 /* CarList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5232768C2B991EC90045C4D7 /* CarList.swift */; };
+		5232768F2B9929D10045C4D7 /* Carlistcells.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5232768E2B9929D10045C4D7 /* Carlistcells.swift */; };
+		5234E75D2B9B803300A21F59 /* Lab2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5234E75C2B9B803300A21F59 /* Lab2.swift */; };
+		5234E75F2B9B83DB00A21F59 /* Lab3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5234E75E2B9B83DB00A21F59 /* Lab3.swift */; };
+		5234E7672B9B86F000A21F59 /* Lab4Autolayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5234E7662B9B86F000A21F59 /* Lab4Autolayout.swift */; };
+		52A3A1AF2BA0F4A4004A9888 /* DarshanMistry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52A3A1AE2BA0F4A4004A9888 /* DarshanMistry.swift */; };
+		52A3A1B12BA0F513004A9888 /* carSearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52A3A1B02BA0F513004A9888 /* carSearch.swift */; };
+		52A5015E2B9A957300F3EC58 /* Quadraticformula.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52A5015D2B9A957300F3EC58 /* Quadraticformula.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		521073252B9A4C82006F499A /* Calculater.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Calculater.swift; sourceTree = "<group>"; };
 		521623612B7E629B0049F737 /* Darshan_Mistry_MT_8967753.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Darshan_Mistry_MT_8967753.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		521623642B7E629B0049F737 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		521623662B7E629B0049F737 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +34,14 @@
 		5216236D2B7E629C0049F737 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		521623702B7E629C0049F737 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		521623722B7E629C0049F737 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5232768C2B991EC90045C4D7 /* CarList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarList.swift; sourceTree = "<group>"; };
+		5232768E2B9929D10045C4D7 /* Carlistcells.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Carlistcells.swift; sourceTree = "<group>"; };
+		5234E75C2B9B803300A21F59 /* Lab2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lab2.swift; sourceTree = "<group>"; };
+		5234E75E2B9B83DB00A21F59 /* Lab3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lab3.swift; sourceTree = "<group>"; };
+		5234E7662B9B86F000A21F59 /* Lab4Autolayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lab4Autolayout.swift; sourceTree = "<group>"; };
+		52A3A1AE2BA0F4A4004A9888 /* DarshanMistry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarshanMistry.swift; sourceTree = "<group>"; };
+		52A3A1B02BA0F513004A9888 /* carSearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = carSearch.swift; sourceTree = "<group>"; };
+		52A5015D2B9A957300F3EC58 /* Quadraticformula.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quadraticformula.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +78,15 @@
 				521623662B7E629B0049F737 /* SceneDelegate.swift */,
 				521623682B7E629B0049F737 /* ViewController.swift */,
 				5216236A2B7E629B0049F737 /* Main.storyboard */,
+				52A3A1B02BA0F513004A9888 /* carSearch.swift */,
+				52A3A1AE2BA0F4A4004A9888 /* DarshanMistry.swift */,
+				5234E7662B9B86F000A21F59 /* Lab4Autolayout.swift */,
+				5234E75E2B9B83DB00A21F59 /* Lab3.swift */,
+				5234E75C2B9B803300A21F59 /* Lab2.swift */,
+				52A5015D2B9A957300F3EC58 /* Quadraticformula.swift */,
+				521073252B9A4C82006F499A /* Calculater.swift */,
+				5232768E2B9929D10045C4D7 /* Carlistcells.swift */,
+				5232768C2B991EC90045C4D7 /* CarList.swift */,
 				5216236D2B7E629C0049F737 /* Assets.xcassets */,
 				5216236F2B7E629C0049F737 /* LaunchScreen.storyboard */,
 				521623722B7E629C0049F737 /* Info.plist */,
@@ -138,9 +165,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5234E7672B9B86F000A21F59 /* Lab4Autolayout.swift in Sources */,
 				521623692B7E629B0049F737 /* ViewController.swift in Sources */,
+				521073262B9A4C82006F499A /* Calculater.swift in Sources */,
+				52A3A1AF2BA0F4A4004A9888 /* DarshanMistry.swift in Sources */,
+				52A5015E2B9A957300F3EC58 /* Quadraticformula.swift in Sources */,
 				521623652B7E629B0049F737 /* AppDelegate.swift in Sources */,
+				5234E75F2B9B83DB00A21F59 /* Lab3.swift in Sources */,
+				5234E75D2B9B803300A21F59 /* Lab2.swift in Sources */,
+				5232768D2B991ECA0045C4D7 /* CarList.swift in Sources */,
 				521623672B7E629B0049F737 /* SceneDelegate.swift in Sources */,
+				5232768F2B9929D10045C4D7 /* Carlistcells.swift in Sources */,
+				52A3A1B12BA0F513004A9888 /* carSearch.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -301,9 +337,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "cons-lab.Darshan-Mistry-MT-8967753";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -328,9 +367,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "cons-lab.Darshan-Mistry-MT-8967753";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
